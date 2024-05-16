@@ -1,0 +1,12 @@
+pandas
+matplotlib
+tqdm
+spacy
+datasets
+jupyter
+Levenshtein
+seaborn
+germansentiment
+simpletransformers
+transformers
+torch
